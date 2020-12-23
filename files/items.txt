@@ -1,0 +1,4 @@
+T1*tetra*32*32*MALE*0*90
+T1*snail*0*24*22*FEMALE*0*100
+T2*danio*50*50*MALE*0*80
+T1*kelp*50*BABY*100

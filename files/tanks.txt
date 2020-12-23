@@ -1,0 +1,2 @@
+T1*Mediterranean fish*There are corys, tetras and danios.*800*1000*1000*./images/tank/bg_tank1.jpg*16*7
+T2*Tropical fish*There are corys.*300*500*600*./images/tank/bg_tank2.jpg*18*7
